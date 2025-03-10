@@ -11,3 +11,4 @@ wa.cssText = `z-index:9999999;background:green;text-decoration:none;color:blue;d
 //wi.cssText = `width:100%; height:`;
 //wa.appendChild(wi);
 document.body.appendChild(wa);
+alert(0)
